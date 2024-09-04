@@ -52,7 +52,7 @@ My goal is to grow as a professional, contribute to the advancement of systems e
 <p align="center">
 <a href="https://www.linkedin.com/in/brandonvisoso/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://wa.me/7352824949" target="_blank"><img align="center" src="https://github.com/BrandonVisosoDev/BrandonVisosoDev/assets/120821543/13374da6-a871-4671-b364-8b713ed833ec" alt="whatsapp" height="50" width="50" /></a>
-<a href="mailto:Brandon.Visoso@outlook.com" target="_blank"><img align="center" src="https://github.com/BrandonVisosoDev/BrandonVisosoDev/assets/120821543/337bb622-8e33-4659-9a3b-2b1795d8171d" alt="email" height="50" width="50" /></a>
+<a href="mailto:Visoso.brandon@outlook.com" target="_blank"><img align="center" src="https://github.com/BrandonVisosoDev/BrandonVisosoDev/assets/120821543/337bb622-8e33-4659-9a3b-2b1795d8171d" alt="email" height="50" width="50" /></a>
 
 
 
