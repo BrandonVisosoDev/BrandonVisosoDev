@@ -28,6 +28,9 @@ Mi objetivo es crecer como profesional, contribuir al avance de la ingeniería e
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visual-studio)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)&nbsp;
+
 
 <!--- Contacto -->
 <div id="user-content-toc">
