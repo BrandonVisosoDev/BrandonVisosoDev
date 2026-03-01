@@ -11,11 +11,15 @@
 
 <br/>
 
-<!-- Subtítulo tipo terminal -->
-```
-[ Recién egresado de Ingeniería en Sistemas ]  [ México 🇲🇽 ]
-[ Apasionado por la tecnología y el aprendizaje continuo ]
-```
+<!-- Subtítulo estilizado -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓 Recién Egresado-Ingeniería en Sistemas-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍 Ubicación-México 🇲🇽-3fb950?style=for-the-badge&labelColor=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💡 Pasión-Tecnología & Aprendizaje Continuo-f78166?style=for-the-badge&labelColor=0d1117"/>
+</p>
 
 </div>
 
