@@ -9,7 +9,7 @@
 <!-- Typing SVG animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hey%2C+I'm+Brandon+Visoso+%F0%9F%91%8B;%3E+Systems+Engineer+%F0%9F%8E%93;%3E+Always+learning%2C+always+building...&" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <!-- Subtítulo estilizado -->
 <p align="center">
