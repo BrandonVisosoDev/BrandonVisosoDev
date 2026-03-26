@@ -1,11 +1,6 @@
 <!-- Header animado -->
 <div align="center">
 
-<!-- Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=BrandonVisosoDev&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=58a6ff" alt="Profile Views"/>
-
-<br/><br/>
-
 <!-- Typing SVG animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hey%2C+I'm+Brandon+Visoso+%F0%9F%91%8B;%3E+Systems+Engineer+%F0%9F%8E%93;%3E+Always+learning%2C+always+building...&" alt="Typing SVG"/>
 
@@ -77,14 +72,19 @@ objetivo   : Crecer, aportar y marcar la diferencia en la tecnología
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 &nbsp; `> git_stats --user BrandonVisosoDev`
+<!-- Áreas de oportunidad -->
+## 🎯 &nbsp; `> job_opportunities.sh`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BrandonVisosoDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&custom_title=Actividad+en+GitHub&rank_icon=github"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonVisosoDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&custom_title=Lenguajes+más+usados"/>
+| Área | Rol |
+|------|-----|
+| 🌐 Desarrollo Web | Frontend Developer · Backend Developer · Full Stack |
+| ☁️ Infraestructura | DevOps Jr · Administrador de Servidores · Cloud Jr |
+| 🔧 Soporte TI | Soporte Técnico · Help Desk · Administrador de Redes |
+| 🧩 Software | Desarrollador Jr · Analista Programador · QA Tester |
+| 🗄️ Datos | Analista de Datos Jr · Administrador de BD |
+| 🔐 Seguridad | Auditor Jr · Analista de Ciberseguridad Jr |
 
 </div>
 
