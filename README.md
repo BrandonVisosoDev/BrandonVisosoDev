@@ -188,7 +188,7 @@ Si buscas a alguien para un equipo de backend o tienes un proyecto en mente, esc
 <p>
   <a href="https://www.linkedin.com/in/brandonvisoso/"><img height="26" src="https://img.shields.io/badge/LinkedIn-brandonvisoso-000000?style=flat-square&labelColor=000000" alt="LinkedIn: brandonvisoso"/></a>
   <a href="mailto:brandonvisoso482@gmail.com"><img height="26" src="https://img.shields.io/badge/Correo-brandon.visoso%40ukuepa.com-000000?style=flat-square&labelColor=000000" alt="Correo: brandonvisoso482@gmail.com"/></a>
-  <a href="https://wa.me/525510984117"><img height="26" src="https://img.shields.io/badge/WhatsApp-%2B52%20735%20282%204949-2C4A3A?style=flat-square&labelColor=0E1D16" alt="WhatsApp: +52 5510984117"/></a>
+  <a href="https://wa.me/525510984117"><img height="26" src="https://img.shields.io/badge/WhatsApp-%2B52%2055%201098%204117-000000?style=flat-square&labelColor=000000" alt="WhatsApp: +52 5510984117"/></a>
   <!-- Activa estas líneas cuando tengas los enlaces:
   <a href="URL_DE_TU_PERFIL_EN_WORKANA"><img height="26" src="https://img.shields.io/badge/Workana-Perfil%20freelance-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Perfil en Workana"/></a>
   <a href="URL_DE_TU_PORTAFOLIO"><img height="26" src="https://img.shields.io/badge/Portafolio-Ver%20sitio-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Portafolio"/></a>
