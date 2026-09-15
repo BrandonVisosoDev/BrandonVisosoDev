@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Brandon Eden Visoso, desarrollador backend con Java y Spring"/>
+  <img src="./hero.svg" width="100%" alt="Brandon Eden Visoso, desarrollador backend con Java y Spring"/>
 </p>
 
 <p align="center">
