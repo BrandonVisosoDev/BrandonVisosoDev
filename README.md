@@ -165,8 +165,8 @@ var brandon = new Developer(
 ## Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="./stats.svg" alt="Estadísticas de GitHub de Brandon"/>
-  <img height="170" src="./top-langs.svg" alt="Lenguajes más usados por Brandon"/>
+  <img height="170" src="./profile/stats.svg" alt="Estadísticas de GitHub de Brandon"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Lenguajes más usados por Brandon"/>
 </p>
 
 <p align="center"><sub>Tarjetas generadas cada día con GitHub Actions.</sub></p>
