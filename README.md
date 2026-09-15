@@ -125,7 +125,7 @@ var brandon = new Developer(
         <code>Java</code> <code>Spring Boot</code> <code>Spring Cloud</code> <code>OpenFeign</code>
         <code>Angular</code> <code>Oracle</code> <code>PostgreSQL</code> <code>JUnit 5</code>
       </p>
-      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+      <a href="https://github.com/BrandonVisosoDev/WEB-SERVICE_BIBLIOTECA"><b>Ver repositorio</b></a>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ var brandon = new Developer(
         <code>Spring Boot</code> <code>Spring Cloud</code> <code>OpenFeign</code>
         <code>RestTemplate</code> <code>Oracle</code> <code>PostgreSQL</code> <code>Angular</code>
       </p>
-      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+      <a href="https://github.com/BrandonVisosoDev/VETERINARIA-MICROSERVICIOS"><b>Ver repositorio</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>Gestión de personal</h3>
@@ -155,7 +155,7 @@ var brandon = new Developer(
         <code>Java</code> <code>Spring Boot</code> <code>Eureka</code>
         <code>PostgreSQL</code> <code>Postman</code>
       </p>
-      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+      <a href="https://github.com/BrandonVisosoDev/MICRO_SERVICES-EDELYX"><b>Ver repositorio</b></a>
     </td>
   </tr>
 </table>
