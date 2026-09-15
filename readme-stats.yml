@@ -39,4 +39,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Actualizar tarjetas del README" || exit 0
-          git push
+          git push origin HEAD:main
