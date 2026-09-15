@@ -1,0 +1,42 @@
+# Genera las tarjetas de estadísticas y las guarda en la carpeta profile/.
+# El README las muestra desde ahí, así no dependen de un servidor externo.
+name: Actualizar tarjetas del README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todos los días a las 06:00 UTC
+  workflow_dispatch: # permite ejecutarlo a mano desde la pestaña Actions
+
+jobs:
+  tarjetas:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Tarjeta de estadísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&locale=es&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0E1D16&title_color=EEF1E6&text_color=9DB3A4&icon_color=7CC04B&border_color=2C4A3A&border_radius=12
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Tarjeta de lenguajes
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&locale=es&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=0E1D16&title_color=EEF1E6&text_color=9DB3A4&border_color=2C4A3A&border_radius=12
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Guardar las tarjetas en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Actualizar tarjetas del README" || exit 0
+          git push

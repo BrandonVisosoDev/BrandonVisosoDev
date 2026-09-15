@@ -1,110 +1,200 @@
-<!-- Header animado -->
-<div align="center">
+<!--
+  README de perfil de Brandon Eden Visoso
+  Antes de publicar: reemplaza TU_USUARIO por tu usuario de GitHub
+  y NOMBRE_REPO por el nombre real de cada repositorio.
+-->
 
-<!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hey%2C+I'm+Brandon+Visoso+%F0%9F%91%8B;%3E+Systems+Engineer+%F0%9F%8E%93;%3E+Always+learning%2C+always+building...&" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- Subtítulo estilizado -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓 Recién Egresado-Ingeniería en Sistemas-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍 Ubicación-México 🇲🇽-3fb950?style=for-the-badge&labelColor=0d1117"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/💡 Pasión-Tecnología & Aprendizaje Continuo-f78166?style=for-the-badge&labelColor=0d1117"/>
+  <img src="./assets/hero.svg" width="100%" alt="Brandon Eden Visoso, desarrollador backend con Java y Spring"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brandonvisoso/"><img height="26" src="https://img.shields.io/badge/LinkedIn-brandonvisoso-2C4A3A?style=flat-square&labelColor=0E1D16" alt="LinkedIn: brandonvisoso"/></a>
+  <a href="mailto:brandon.visoso@ukuepa.com"><img height="26" src="https://img.shields.io/badge/Correo-brandon.visoso%40ukuepa.com-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Correo: brandon.visoso@ukuepa.com"/></a>
+  <!-- Cuando subas tu CV a assets/, activa esta línea:
+  <a href="./assets/CV_Brandon_Visoso.pdf"><img height="26" src="https://img.shields.io/badge/CV-Descargar%20PDF-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Descargar CV"/></a>
+  -->
+</p>
 
----
+<p align="center">
+  <sub>Disponible para puestos de backend o full stack junior y para proyectos freelance. México.</sub>
+</p>
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-</picture>
+<br/>
 
----
+## Sobre mí
 
-<!-- Sobre mí -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; `> about_me.txt`
+Soy ingeniero en sistemas computacionales y me especializo en backend: diseño microservicios con Java y Spring, desde el registro de servicios y el API Gateway hasta la comunicación entre servicios y el manejo de fallas. Cuando el proyecto lo pide, también construyo el frontend en Angular.
 
-```yaml
-nombre     : Brandon Eden Visoso
-rol        : Ingeniero en Sistemas (recién egresado)
-ubicación  : México 🇲🇽
-intereses  : [ Desarrollo Web, Soporte TI, Desarrollo de MicroServicios ]
-actualmente: Buscando mi primer reto profesional 🚀
-objetivo   : Crecer, aportar y marcar la diferencia en la tecnología
+Me importa que el código funcione, pero también que se entienda y esté probado. Separo responsabilidades por capas, valido los datos en cada servicio y escribo pruebas unitarias. Desde 2024 trabajo como desarrollador freelance a través de Workana, y en 2026 terminé la carrera y una capacitación en microservicios con Java y Spring en ENUCOM.
+
+```java
+record Developer(String rol, String formacion,
+                 List<String> enfoque, String modalidad) {}
+
+var brandon = new Developer(
+    "Desarrollador backend",
+    "Ing. en Sistemas Computacionales (2026)",
+    List.of("Microservicios", "APIs REST", "Pruebas unitarias"),
+    "Freelance desde 2024"
+);
 ```
 
----
+<br/>
 
-<!-- Stack tecnológico -->
-## ⚡ &nbsp; `> tech_stack.sh`
+## Stack
 
-**Lenguajes & Web**
+<table>
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" alt="Java"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/spring/spring-original.svg" alt="Spring"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/maven/maven-original.svg" alt="Maven"/>
+      <br/><sub>Java, Spring Boot, Spring Cloud (Eureka, Gateway, OpenFeign, Circuit Breaker), APIs REST, Maven</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/angular/angular-original.svg" alt="Angular"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" alt="HTML"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" alt="CSS"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <br/><sub>Angular, TypeScript, HTML, CSS, JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Bases de datos</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/oracle/oracle-original.svg" alt="Oracle"/>
+      <br/><sub>PostgreSQL, Oracle 21c, MySQL, SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Pruebas y APIs</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/junit/junit-original.svg" alt="JUnit"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/swagger/swagger-original.svg" alt="Swagger"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postman/postman-original.svg" alt="Postman"/>
+      <br/><sub>JUnit 5, Mockito, JaCoCo, Swagger / OpenAPI, Postman</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Herramientas</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" alt="Git"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/vscode/vscode-original.svg" alt="VS Code"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/linux/linux-original.svg" alt="Linux"/>&nbsp;
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/windows11/windows11-original.svg" alt="Windows"/>
+      <br/><sub>Git, IntelliJ IDEA, VS Code, Linux, Windows, Scrum</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>También</b></td>
+    <td>
+      <img height="36" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="Python"/>
+      <br/><sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-**Frameworks & Herramientas**
+## Proyectos
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>EdeBook</h3>
+      <p>
+        Sistema para administrar bibliotecas construido con microservicios. Bibliotecas, autores, libros y usuarios
+        son servicios independientes que se registran en Eureka y se exponen a través de un API Gateway.
+        Se comunican con OpenFeign y RestTemplate con balanceo de carga, y el servicio de libros usa
+        Circuit Breaker para seguir respondiendo cuando falla un servicio del que depende.
+        El frontend en Angular tiene un panel de administración con vistas según el rol y un catálogo público.
+      </p>
+      <p>
+        <b>68 pruebas unitarias</b> con JUnit 5 y Mockito, <b>97.4 % de cobertura</b> medida con JaCoCo
+        y cada API documentada con Swagger.
+      </p>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>Spring Cloud</code> <code>OpenFeign</code>
+        <code>Angular</code> <code>Oracle</code> <code>PostgreSQL</code> <code>JUnit 5</code>
+      </p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Clínica veterinaria</h3>
+      <p><sub>En desarrollo</sub></p>
+      <p>
+        Microservicios para una veterinaria: veterinarias, clientes, responsables y mascotas.
+        Cada servicio tiene su propia base de datos, Oracle o PostgreSQL, y las relaciones entre ellos
+        se validan con llamadas HTTP antes de guardar, sin llaves foráneas entre bases.
+      </p>
+      <p>
+        <code>Spring Boot</code> <code>Spring Cloud</code> <code>OpenFeign</code>
+        <code>RestTemplate</code> <code>Oracle</code> <code>PostgreSQL</code> <code>Angular</code>
+      </p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gestión de personal</h3>
+      <p><sub>Backend funcional</sub></p>
+      <p>
+        Tres microservicios para empleados, departamentos y puestos, cada uno con su propia base
+        PostgreSQL y registrado en Eureka. Arquitectura por capas (entidad, DAO, servicio y controlador)
+        con validación de registros duplicados.
+      </p>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>Eureka</code>
+        <code>PostgreSQL</code> <code>Postman</code>
+      </p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO"><b>Ver repositorio</b></a>
+    </td>
+  </tr>
+</table>
 
-**Sistemas Operativos**
+<br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Actividad en GitHub
 
----
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="Estadísticas de GitHub de Brandon"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Lenguajes más usados por Brandon"/>
+</p>
 
-<!-- Áreas de oportunidad -->
-## 🎯 &nbsp; `> job_opportunities.sh`
+<p align="center"><sub>Tarjetas generadas cada día con GitHub Actions.</sub></p>
 
-<div align="center">
+<br/>
 
-| Área | Rol |
-|------|-----|
-| 🌐 Desarrollo Web | Frontend Developer · Backend Developer · Full Stack |
-| ☁️ Infraestructura | DevOps Jr · Administrador de Servidores · Cloud Jr |
-| 🔧 Soporte TI | Soporte Técnico · Help Desk · Administrador de Redes |
-| 🧩 Software | Desarrollador Jr · Analista Programador · QA Tester |
-| 🗄️ Datos | Analista de Datos Jr · Administrador de BD |
-| 🔐 Seguridad | Auditor Jr · Analista de Ciberseguridad Jr |
+## Ahora mismo
 
-</div>
+- **Construyendo** autenticación con JWT y roles para EdeBook: un servicio propio emite los tokens y el Gateway los valida en cada petición. También avanzo con el sistema de la clínica veterinaria.
+- **Aprendiendo** Spring Security y signals de Angular.
+<!-- - **Explorando** escribe aquí la tecnología que estés explorando -->
 
----
+<br/>
 
-<!-- Conecta conmigo -->
-## 🤝 &nbsp; `> connect --with Brandon`
+## Contacto
 
-<div align="center">
+Si buscas a alguien para un equipo de backend o tienes un proyecto en mente, escríbeme.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon_Visoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonvisoso/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7352824949)
-[![Email](https://img.shields.io/badge/Email-brandon.visoso%40ukuepa.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.visoso@ukuepa.com)
+<p>
+  <a href="https://www.linkedin.com/in/brandonvisoso/"><img height="26" src="https://img.shields.io/badge/LinkedIn-brandonvisoso-2C4A3A?style=flat-square&labelColor=0E1D16" alt="LinkedIn: brandonvisoso"/></a>
+  <a href="mailto:brandon.visoso@ukuepa.com"><img height="26" src="https://img.shields.io/badge/Correo-brandon.visoso%40ukuepa.com-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Correo: brandon.visoso@ukuepa.com"/></a>
+  <a href="https://wa.me/527352824949"><img height="26" src="https://img.shields.io/badge/WhatsApp-%2B52%20735%20282%204949-2C4A3A?style=flat-square&labelColor=0E1D16" alt="WhatsApp: +52 735 282 4949"/></a>
+  <!-- Activa estas líneas cuando tengas los enlaces:
+  <a href="URL_DE_TU_PERFIL_EN_WORKANA"><img height="26" src="https://img.shields.io/badge/Workana-Perfil%20freelance-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Perfil en Workana"/></a>
+  <a href="URL_DE_TU_PORTAFOLIO"><img height="26" src="https://img.shields.io/badge/Portafolio-Ver%20sitio-2C4A3A?style=flat-square&labelColor=0E1D16" alt="Portafolio"/></a>
+  -->
+</p>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-*`"El aprendizaje no termina con el título, apenas comienza." 🎓`*
-
-</div>
+<p align="center"><sub><i>El aprendizaje no termina con el título, apenas comienza.</i></sub></p>
